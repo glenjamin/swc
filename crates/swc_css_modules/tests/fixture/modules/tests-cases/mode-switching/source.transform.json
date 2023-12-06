@@ -40,5 +40,11 @@
       "type": "local",
       "name": "__local__c7"
     }
+  ],
+  "a": [
+    {
+      "type": "local",
+      "name": "__local__a"
+    }
   ]
 }

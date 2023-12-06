@@ -1,2 +1,14 @@
 .c1 :local .c2 .c3 :global .c4 :local .c5, .c6 :local .c7 { background: red; }
 .c8 { background: red; }
+
+:local(.a).a {
+  color: hotpink;
+}
+
+:global(.b).a {
+  color: blueviolet;
+}
+
+:local(.a):global(.b) {
+  color: orchid;
+}

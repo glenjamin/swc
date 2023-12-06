@@ -5,3 +5,12 @@
 .__local__c8 {
   background: red;
 }
+.__local__a.__local__a {
+  color: hotpink;
+}
+.b.__local__a {
+  color: blueviolet;
+}
+.__local__a.b {
+  color: orchid;
+}
